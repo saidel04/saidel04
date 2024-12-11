@@ -7,7 +7,7 @@
 - Building tools to improve productivity and engagement, such as gamified learning platforms and innovative apps.
 
 📚 **Current Projects:**
-- **JobMatch**: A mobile app that connects job seekers with opportunities, blending the ease of swiping with professional networking.
+- **Joblr**: A mobile app that connects job seekers with opportunities, blending the ease of swiping with professional networking.
 - **Spy Quest**: A gamified learning tool for teaching cybersecurity concepts, developed during my co-op term with PSPC.
 - **Custom Clothing Website**: An e-commerce platform showcasing my entrepreneurial journey in the custom apparel industry.
 
