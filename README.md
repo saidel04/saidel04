@@ -1,30 +1,35 @@
-👋 Hi there! I'm Said Elakad, a passionate **Computer Science student** with a knack for **problem-solving** and a love for **building impactful projects**.
+# Hi, I'm Said 👋
 
-🔧 **What I Do:**
-- Developing **web applications** using modern frameworks like **React, TypeScript**, and **Node.js**.
-- Exploring **cybersecurity**, including governance, audit, compliance, and penetration testing.
-- Experimenting with **AI/ML** and **data-driven solutions**.
-- Building tools to improve productivity and engagement, such as gamified learning platforms and innovative apps.
+- 🎓 4th year Computer Science at Carleton University, cybersecurity concentration
+- 💼 Software Engineering Intern at Shopify, Supply Chain Security team
+- 📍 Ottawa, Canada
 
-📚 **Current Projects:**
-- **Joblr**: A mobile app that connects job seekers with opportunities, blending the ease of swiping with professional networking.
-- **Spy Quest**: A gamified learning tool for teaching cybersecurity concepts, developed during my co-op term with PSPC.
-- **Custom Clothing Website**: An e-commerce platform showcasing my entrepreneurial journey in the custom apparel industry.
+## 🛠️ What I'm working on at Shopify
 
-🌟 **Skills I'm Proud Of:**
-- Frontend: React, React-Native, TypeScript, HTML/CSS
-- Backend: Node.js, Python
-- Database: MySQL, MongoDB, PostgreSQL
-- Tools: Git, Microsoft Power Apps, Expo CLI
-- Cloud: AWS (basic knowledge)
+- 💎 Added Ruby 4 support to our internal dependency upgrade tool
+- 🐛 Fixed a pull request recreate bug affecting ~200 PRs across Shopify
+- 📉 Removed ~800 failures a week by fixing a mismatch between two services
+- 🔐 Replaced scheduled PR updates with HMAC-signed SVG badges, saving ~82,000 GitHub API calls a year
 
-🚀 **Goals:**
-- Dive deeper into **cloud-native development**.
-- Contribute to **open-source projects**.
-- Launch my own **cybersecurity consulting firm** in the future.
+## 🧳 Before that
 
-💻 Check out my projects and feel free to collaborate!  
-📫 Reach me at: **saidelakad@cmail.carleton.ca**  
-🌐 Explore more about me: [www.printculture.ca](http://www.printculture.ca)
+- 🛡️ **Shared Services Canada:** security analyst intern, tuned detection rules and triaged alerts
+- 👕 **Print Culture:** built [printculture.ca](https://printculture.ca) in React and PHP, plus a lead tracking CRM. $30K+ in revenue in the first month
+- 🕷️ **Digitera:** wrote 100+ Python scrapers with 99%+ uptime on nightly runs
 
-Let’s build something amazing together! 🚀
+## 🚀 Projects
+
+- 🏆 **[Rocko](https://github.com/B2707/Rocko):** 1st place at CU Hack 2026 (QNX stream). An emergency beacon that sends signals through rock for miners and cave explorers, with on-device voice activation and injury detection
+- 🤖 **Personal AI agent:** self-hosted OpenClaw on Telegram with custom skills for job search, a morning news brief, and bookkeeping
+- ⚽ **Expected goals model:** a Python project that tracks soccer scoring chances
+
+## 🧰 Tech
+
+- **Languages:** Ruby, Python, Java, TypeScript, JavaScript, C, C++, C#, PHP, SQL, Bash
+- **Frameworks:** Ruby on Rails, React, Vite, .NET, pandas
+- **Tools:** Git, GitHub Actions, Linux, Nix, Azure, SQLite
+
+## 📫 Reach me
+
+- ✉️ [said.elakad@gmail.com](mailto:said.elakad@gmail.com)
+- 💼 [linkedin.com/in/said-elakad](https://linkedin.com/in/said-elakad)
