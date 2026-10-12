@@ -4,12 +4,12 @@
 - 💼 Software Engineering Intern at Shopify, Supply Chain Security team
 - 📍 Ottawa, Canada
 
-## 🛠️ What I'm working on at Shopify
+## 🛠️ What I do at Shopify
 
-- 💎 Added Ruby 4 support to our internal dependency upgrade tool
-- 🐛 Fixed a pull request recreate bug affecting ~200 PRs across Shopify
-- 📉 Removed ~800 failures a week by fixing a mismatch between two services
-- 🔐 Replaced scheduled PR updates with HMAC-signed SVG badges, saving ~82,000 GitHub API calls a year
+- 💎 Build and maintain internal tooling in Ruby on Rails
+- 📦 Help keep dependencies across Shopify's codebases up to date and secure
+- 🐛 Track down and fix bugs in the systems that ship those updates
+- ⚡ Look for ways to make our services more reliable and cut down on wasted work
 
 ## 🧳 Before that
 
